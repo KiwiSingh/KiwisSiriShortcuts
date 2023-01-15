@@ -4,7 +4,7 @@ A set of Siri Shortcuts I made for people to quickly use.
 
 ## 1. Activate Siri Pro Mode
 
-Functionally equivalent to SiriGPT, but much easier to use.
+Functionally equivalent to SiriGPT, but much easier to use. Original template forked from SiriGPT.
 
 
 ### Usage:
