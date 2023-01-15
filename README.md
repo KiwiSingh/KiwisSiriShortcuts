@@ -29,7 +29,7 @@ That's it! Now save the shortcut, and run it from the Shortcuts app to authentic
 Same as "Activate Siri Pro Mode" but uses a beta version model (`davinci-instruct-beta`) that is much better optimized for instructional queries, such as writing essays*
 
 ### Usage:
-Same as Activate Siri Pro Mode, except you say `"Hey Siri, Activate Siri Beast Mode."` to run it.
+Same as Activate Siri Pro Mode, except you say `"Hey Siri, Activate Siri Beta Mode."` to run it.
 
 ## 3. Thanos demands your silence
 
