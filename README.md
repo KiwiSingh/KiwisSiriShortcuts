@@ -46,4 +46,5 @@ Opens Revolut.
 Say, `"Hey Siri, take me to my vault."`
 
 
-
+*I do not encourage the use of these Shortcuts to commit academic fraud/plagiarism or to abuse OpenAI services.
+If you choose to do so, you and you alone will be responsible for any resulting consequences.
